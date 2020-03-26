@@ -1,2 +1,3 @@
 # Covid19
-Some plots to monitor Sars-cov2 spreading
+Some pyplots to monitor Sars-cov2 spreading
+Intermediate file before embedding.
